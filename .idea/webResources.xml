@@ -6,6 +6,7 @@
         <entryData>
           <resourceRoots>
             <path value="file://$PROJECT_DIR$/CNN/Data" />
+            <path value="file://$PROJECT_DIR$/Examples" />
           </resourceRoots>
         </entryData>
       </entry>
